@@ -1,7 +1,7 @@
-=== Plugin Name ===
+ï»¿=== Plugin Name ===
 Contributors: whyun
 Donate link: http://lomu.me/
-Tags: CDN, Gravatar, googleapis, acceleration, WordPressÓÅ»¯, WordPress¼ÓËÙ, ÓÅ»¯
+Tags: CDN, Gravatar, googleapis, acceleration, WordPressä¼˜åŒ–, WordPressåŠ é€Ÿ, ä¼˜åŒ–
 Requires at least: 3.0.1
 Tested up to: 4.0.1
 Stable tag: 1.0.0
@@ -12,20 +12,20 @@ Replace the Google CDN and Gravatar avatar links, speed up the site speed for Wo
 
 == Description ==
 
-Ìæ»»Google CDNÎÄ¼ş¡¢GravatarÍ·ÏñÁ´½Ó£¬¼Ó¿ìWordPress´ò¿ªËÙ¶È£¬ÎªWordPressÖĞ¹úÓÃ»§Ìá¹©¼ÓËÙ¡£
+æ›¿æ¢Google CDNæ–‡ä»¶ã€Gravatarå¤´åƒé“¾æ¥ï¼ŒåŠ å¿«WordPressæ‰“å¼€é€Ÿåº¦ï¼Œä¸ºWordPressä¸­å›½ç”¨æˆ·æä¾›åŠ é€Ÿã€‚
 
-ÖÚËùÖÜÖªµÄÒ»Ğ©Ô­Òò£¬ÔÚ¹úÄÚÊ¹ÓÃWordPress½¨Õ¾»á·¢ÏÖ´ò¿ª·Ç³£Âı£¬ËùÒÔ¾ÍĞèÒªÎÒÃÇ×öÒ»Ğ©ÓÅ»¯¹¤×÷ÁË£¬WP Acceleration for China²å¼şÖ¼ÔÚÎª¹úÄÚWordPress¼ÓËÙ¡£
+ä¼—æ‰€å‘¨çŸ¥çš„ä¸€äº›åŸå› ï¼Œåœ¨å›½å†…ä½¿ç”¨WordPresså»ºç«™ä¼šå‘ç°æ‰“å¼€éå¸¸æ…¢ï¼Œæ‰€ä»¥å°±éœ€è¦æˆ‘ä»¬åšä¸€äº›ä¼˜åŒ–å·¥ä½œäº†ï¼ŒWP Acceleration for Chinaæ’ä»¶æ—¨åœ¨ä¸ºå›½å†…WordPressåŠ é€Ÿã€‚
 
-Ä¿Ç°²å¼ş¿ÉÒÔÎª³£¼ûµÄÁ½ÖÖ´ò¿ªÂıµÄÇé¿ö½øĞĞÌáËÙ£º
+ç›®å‰æ’ä»¶å¯ä»¥ä¸ºå¸¸è§çš„ä¸¤ç§æ‰“å¼€æ…¢çš„æƒ…å†µè¿›è¡Œæé€Ÿï¼š
 
-1. Google CDN¹úÄÚÎŞ·¨·ÃÎÊ£»
-2. GravatarÍ·Ïñ¹úÄÚÎŞ·¨·ÃÎÊ¡£
+1. Google CDNå›½å†…æ— æ³•è®¿é—®ï¼›
+2. Gravatarå¤´åƒå›½å†…æ— æ³•è®¿é—®ã€‚
 
 
 == Installation ==
 
-1. Ö±½ÓÔÚwordpressºóÌ¨ËÑË÷²å¼ş°²×°²¢ÆôÓÃ£»
-2. ÏÂÔØ²å¼ş²¢½âÑ¹£¬ÉÏ´«ÖÁ `/wp-content/plugins/` Ä¿Â¼£¬È»ºóÆôÓÃ²å¼ş
+1. ç›´æ¥åœ¨wordpressåå°æœç´¢æ’ä»¶å®‰è£…å¹¶å¯ç”¨ï¼›
+2. ä¸‹è½½æ’ä»¶å¹¶è§£å‹ï¼Œä¸Šä¼ è‡³ `/wp-content/plugins/` ç›®å½•ï¼Œç„¶åå¯ç”¨æ’ä»¶
 
 
 == Frequently Asked Questions ==
@@ -38,7 +38,7 @@ Replace the Google CDN and Gravatar avatar links, speed up the site speed for Wo
 == Changelog ==
 
 = 1.0 =
-* ²å¼ş¿ª·¢Íê³É.
+* æ’ä»¶å¼€å‘å®Œæˆ.
 
 
 == Arbitrary section ==
