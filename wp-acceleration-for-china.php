@@ -39,12 +39,12 @@ function izt_replace_callback($matches) {
   return preg_replace($patterns, $replacements, $str);
 }
 
-function izt_buffer_start() {
+function izt_replace_start() {
    //开启缓冲
   ob_start("izt_replace_url");
 }
 
-function izt_buffer_end() {
+function izt_replace_end() {
   // 关闭缓冲
   ob_end_flush();
 }
@@ -54,7 +54,7 @@ function izt_buffer_end() {
  * 也可以尝试添加到其他动作，只要内容输出在两个动作之间即可
  * 参考链接：http://codex.wordpress.org/Plugin_API/Action_Reference
  */
-add_action('wp_loaded', 'izt_buffer_start');
-add_action('shutdown', 'izt_buffer_end');
+add_action('wp_loaded', 'izt_replace_start');
+add_action('shutdown', 'izt_replace_end');
 
 ?>
