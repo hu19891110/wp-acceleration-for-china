@@ -1,7 +1,7 @@
 === Plugin Name ===
 Contributors: whyun
 Donate link: http://lomu.me/
-Tags: comments, spam
+Tags: CDN, Gravatar, googleapis, acceleration, WordPress优化, WordPress加速, 优化
 Requires at least: 3.0.1
 Tested up to: 4.0.1
 Stable tag: 1.0.0
